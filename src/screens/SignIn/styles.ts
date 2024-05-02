@@ -11,7 +11,7 @@ export const Container = styled.KeyboardAvoidingView`
 
 export const ViewImage = styled.View`
   flex: 1;
-  justify-content: center;
+  background-size: cover;
   `
 
 export const ContainerInput = styled(Animated.View)`

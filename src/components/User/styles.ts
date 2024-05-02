@@ -15,11 +15,11 @@ export const Photo = styled.Image`
 export const Name = styled.Text`
   font-size: 22px;
   font-weight: bold;
-  color: #47474D;
+  color: white;
 `;
 
 export const Email = styled.Text`
   font-size: 15px;
-  color: #7A7A80;
+  color: white;
   line-height: 25px;  
 `;

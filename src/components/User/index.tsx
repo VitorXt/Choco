@@ -8,9 +8,9 @@ export function User() {
 
   return (
     <Container>
-      <Photo
+      {/* <Photo
         source={{ uri: "https://github.com/VitorXt.png" }}
-      />
+      /> */}
 
       <Name>{user?.name} </Name>
       <Email>{user?.email}</Email>
