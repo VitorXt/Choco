@@ -1,7 +1,6 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { MaterialIcons } from '@expo/vector-icons'
-
 import { Home } from '../screens/Home'
 import { Grupos } from '../screens/grupos';
 import { CreateGroup } from '../screens/Criar-grupo';

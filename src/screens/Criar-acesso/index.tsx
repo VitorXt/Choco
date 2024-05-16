@@ -84,12 +84,14 @@ export function CreateSign() {
               placeholder='Senha'
               value={password}
               onChangeText={setPassword}
+              secureTextEntry={true}
             />
 
             <Input 
               placeholder='Confirme sua senha'
               value={confirmPassword}
               onChangeText={setConfirmPassword}
+              secureTextEntry={true}
             />
 
           

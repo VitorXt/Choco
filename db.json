@@ -11,6 +11,20 @@
       "name": "Vitor",
       "email": "vitor@gmail.com",
       "password": "1234"
+    },
+    {
+      "id": "148e",
+      "name": "Vitor Hugo",
+      "email": "vitor1@gmail.com",
+      "password": "123",
+      "image": ""
+    },
+    {
+      "id": "57a5",
+      "name": "Teste",
+      "email": "teste@gmail.com",
+      "password": "123",
+      "image": ""
     }
   ],
   "grupos": [
@@ -52,6 +66,42 @@
         "descricao": "testeeeeeeee",
         "valor": "1000",
         "dataRevelacao": "24/04/2024",
+        "status": 1,
+        "imagem": ""
+      }
+    },
+    {
+      "id": "0250",
+      "idUsuario": "2",
+      "grupo": {
+        "nome": "Teste",
+        "descricao": "aqui",
+        "valor": "120",
+        "dataRevelacao": "25/12/2024",
+        "status": 1,
+        "imagem": ""
+      }
+    },
+    {
+      "id": "d49f",
+      "idUsuario": "148e",
+      "grupo": {
+        "nome": "aula",
+        "descricao": "sorteio",
+        "valor": "10",
+        "dataRevelacao": "02/05/2024",
+        "status": 1,
+        "imagem": ""
+      }
+    },
+    {
+      "id": "59fb",
+      "idUsuario": "2",
+      "grupo": {
+        "nome": "te",
+        "descricao": "teste",
+        "valor": "1",
+        "dataRevelacao": "1",
         "status": 1,
         "imagem": ""
       }

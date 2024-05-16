@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Subtitle, Title } from './styles';
+import { Title } from './styles';
 
 export function Header() {
   return (
