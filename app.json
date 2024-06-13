@@ -1,14 +1,27 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "chocosort",
     "slug": "chocosort",
+=======
+    "name": "Choco",
+    "slug": "Choco",
+>>>>>>> 925c6da (save changes app)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+<<<<<<< HEAD
     "assetBundlePatterns": [
       "**/*"
     ],
+=======
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+>>>>>>> 925c6da (save changes app)
     "ios": {
       "supportsTablet": true
     },
